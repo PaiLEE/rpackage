@@ -1,0 +1,14 @@
+Package: PaiLToolBOX
+Type: Package
+Title: Maybe a useful package in bioinformatics for freshmen
+Version: 1.21.04
+Date: 2021.4.7
+Author: Pai Li
+Maintainer: Pai Li <lipai@cemps.ac.cn>
+Description: It is used for bioinformatics and biostatistics analysis. 
+LazyData: true
+License: GPL-3
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2021-04-07 10:23:40 UTC; josel
+Depends: R (>= 3.5.0)
